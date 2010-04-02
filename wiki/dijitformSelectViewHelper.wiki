@@ -1,0 +1,3 @@
+<em>Select</em>: Similar to FilteringSelect and ComboBox, this is a substitute of the classic form's select tag/element, that can either render a provided list of options or those fetched via a dojo.data datastore. Unlike FilteringSelect or ComboBox, Select doesn't allow any user input.<br>
+<br>
+Please see the information above on ComboBox for examples and available options for defining datastores. 
